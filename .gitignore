@@ -1,0 +1,17 @@
+# FRONTEND
+frontend/node_modules
+frontend/dist
+
+# BACKEND
+backend/target
+
+# STS FILES
+backend/.classpath
+backend/.project
+backend/.settings
+
+# VS CODE
+.vscode
+
+# LOGS
+*.log
