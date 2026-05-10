@@ -43,3 +43,37 @@ A Full Stack Expense Tracker Application.
 expense-tracker-fullstack
 ├── backend
 ├── frontend
+├── screenshots
+└── README.md
+
+# Screenshots
+
+## Home Page
+![Home](screenshots/Home.png)
+
+## Register Page
+![Register](screenshots/Register.png)
+
+## Login Page
+![Login](screenshots/Login.png)
+
+## Add Expense
+![Add Expense](screenshots/AddExpense.png)
+
+## Expense List
+![Expense List](screenshots/ExpenseList.png)
+
+## Expense Download
+![Expense Download](screenshots/ExpensesDowload.png)
+
+## Expense Charts
+![Expense Charts](screenshots/ExpenseCharts.png)
+
+## Monthly Analytics
+![Monthly Analytics](screenshots/MonthlyAnalytics.png)
+
+## Day Wise Analytics
+![Day Wise Analytics](screenshots/DayWiseAnalytics.png)
+
+## Category Analytics
+![Category Analytics](screenshots/CategoryAnalytics.png)
